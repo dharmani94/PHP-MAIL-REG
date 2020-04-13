@@ -1,1 +1,1 @@
-# PHP-MAIL-REG
+# Email-Registion-Form-using-php-and-mysql-database
